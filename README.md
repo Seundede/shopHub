@@ -2,7 +2,7 @@
 
 This is an E-commerce site built with react, router and material UI. 
 
-# [Link}(https://613e796c7240bc7a6f234d8f--shophub-commerce.netlify.app/)
+# [Link](https://613e796c7240bc7a6f234d8f--shophub-commerce.netlify.app/)
 
 
 # Getting Started with Create React App
